@@ -1,2 +1,7 @@
 # DH - Landesseker
- HTML - CSS Digital House
+Curso da Digital House 
+
+Ferramentas utilizadas:
+
+- HTML
+- CSS
